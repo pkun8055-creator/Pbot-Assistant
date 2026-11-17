@@ -1,3 +1,2 @@
 # Pbot-Assistant
 AssistantがBANされてしまったのでpythonで作りたいんです
-ああああああああ
